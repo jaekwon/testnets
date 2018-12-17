@@ -29,7 +29,7 @@ Genesis Files
 
 All gen-txs have been merged. 
 
-The genensis file will be released on Monday December 18th, in the afternoon, PDT.  Check back here for more updates.
+The genensis file will be released on Monday December 17th, in the afternoon, PDT.  Check back here for more updates.
 
 ## Instructions for Launching Game of Stakes
 
